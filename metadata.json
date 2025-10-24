@@ -1,0 +1,5 @@
+{
+  "name": "SkillCompiler",
+  "description": "A web application to compile Anthropic Claude skills into self-contained Google Gemini CLI commands by parsing skill files, packaging them, and using the Gemini API for conversion.",
+  "requestFramePermissions": []
+}
